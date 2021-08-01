@@ -1,0 +1,114 @@
+#title {
+  color: #fff;
+  background-color: #0C4271;
+}
+
+#title-text{
+  color: #00DBCD;
+}
+
+#navcolor{
+  color: #00DBCD;
+}
+
+#button-color{
+  color: #285CBD;
+}
+
+h1 {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #285CBD;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+p{
+  color: #285CBD;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-family:'Anton', sans-serif;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-family: 'Anton', sans-serif;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Anton', sans-serif;
+}
+
+.headtext{
+  text-align: center;
+  padding-top: 30px;
+  background-color: #00DBCD;
+
+}
+
+
+#pricing{
+  padding: 50px;
+  text-align: center;
+  background-color: #fff;
+
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+.row{
+  background-color: #0C4271;
+}
+
+.bottom-container{
+  background-color: #0C4271;
+  padding: 50px 0 20px;
+  text-align: center;
+}
+
+.footer-link{
+  color: #FF3D68
+}
+
+.copyright{
+  color: #00DBCD;
+  font-family: 'Press Start 2P', cursive;
+}
+
+/*media (max-width: 1028px) {
+  #pricing{
+    text-align: center;
+
+  }
+  .button-container{
+    width: 100%
+  }
+
+}*/
